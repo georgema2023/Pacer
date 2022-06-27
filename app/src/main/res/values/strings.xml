@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PacerDemo</string>
+
+    <array name="sensitivity">
+        <item>very high 1.97</item>
+        <item>high 4.44</item>
+        <item>medium (Recommend) 10.0</item>
+        <item>low 22.50</item>
+        <item>very low 50.62</item>
+    </array>
+
+    <array name="interval">
+        <item>100 ms</item>
+        <item>400 ms</item>
+        <item>800 ms</item>
+    </array>
+</resources>
